@@ -14,11 +14,11 @@ ___
 For more information:
 </br>
 </br>
-<a ref='https://pandas.pydata.org/docs/index.html'>Pandas Documentation</a>
+<a href='https://pandas.pydata.org/docs/index.html'>Pandas Documentation</a>
 </br>
-<a ref='https://matplotlib.org/'>MatPlot Library</a>
+<a href='https://matplotlib.org/'>MatPlot Library</a>
 </br>
-<a ref='https://devguide.python.org/'>Python for Devs</a>
+<a href='https://devguide.python.org/'>Python for Devs</a>
 </br>
-<a ref='https://www.djangoproject.com/'>Django</a>
+<a href='https://www.djangoproject.com/'>Django</a>
 </br>
